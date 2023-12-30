@@ -1,0 +1,4 @@
+-IC:\Users\missi\OneDrive\Desktop\C++\C++\SizeOfOperator
+-DNDEBUG
+-target
+
